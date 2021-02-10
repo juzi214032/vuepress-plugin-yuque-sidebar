@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-plugin-yuque-sidebar",
+  "version": "1.0.0",
+  "description": "\"Generate a YuQue style right-hand navigation bar for vuepress\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juzi214032/vuepress-plugin-yuque-sidebar.git"
+  },
+  "keywords": [
+    "vuepress",
+    "sidebar",
+    "right",
+    "yuque"
+  ],
+  "author": "桔子",
+  "license": "MIT"
+}
